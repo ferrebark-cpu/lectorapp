@@ -26,6 +26,7 @@ android.copy_libs = 1
 
 p4a.bootstrap = sdl2
 android.ndk = 25b
+android.sdk_build_tools = 33.0.2
 
 log_level = 2
 debug = 1
@@ -33,4 +34,5 @@ debug = 1
 
 [buildozer]
 log_level = 2
+
 warn_on_root = 0
