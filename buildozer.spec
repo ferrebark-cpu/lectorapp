@@ -19,10 +19,9 @@ android.permissions = CAMERA, INTERNET
 
 android.api = 33
 android.minapi = 21
-android.sdk = 33
 android.ndk = 25b
 android.sdk_build_tools = 33.0.2
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
 android.enable_androidx = True
 android.copy_libs = 1
